@@ -5,7 +5,7 @@ import tkinter.ttk as tk
 
 t_timer = Tk()
 t_timer.geometry("500x500")
-t_timer.title("Countdown Timer")
+t_timer.title("Timer")
 t_timer.configure(background='orange')
 t_timer.resizable(False,False)
 
